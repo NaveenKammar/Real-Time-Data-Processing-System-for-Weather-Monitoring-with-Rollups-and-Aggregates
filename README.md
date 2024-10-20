@@ -1,0 +1,2 @@
+# Real-Time-Data-Processing-System-for-Weather-Monitoring-with-Rollups-and-Aggregates
+It processes real-time weather information such as temperature, perceived temperature, and main weather conditions, converting temperatures from Kelvin to Celsius based on user preferences. The system stores daily weather summaries, including average, maximum, and minimum temperatures, and tracks dominant weather conditions.
